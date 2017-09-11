@@ -5,12 +5,11 @@ Trabalho desenvolvido durante a disciplina de BD1
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
+primeiro_componente_do_grupo:aguiar007ax@gmail.com
 segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
-<br>e motivação da escolha realizada. <br>
+Neste projeto nos iremos apresentar um banco de dados para usuarios de ônibus, que ira mostrar horarios, rotas entre outras coisas.
 
 ### 3.MINI-MUNDO<br>
 
